@@ -193,6 +193,7 @@ namespace Invector.CharacterController
                 yield return new WaitForEndOfFrame();
 
                 AutoCrouch();
+                //停止移动
                 StopMove();
             }
         }
