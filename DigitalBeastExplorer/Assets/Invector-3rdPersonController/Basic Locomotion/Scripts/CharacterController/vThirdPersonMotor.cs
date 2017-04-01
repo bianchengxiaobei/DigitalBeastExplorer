@@ -13,7 +13,7 @@ namespace Invector.CharacterController
         #region Variables        
 
         #region Stamina
-
+        //活力消耗
         [Header("--- Stamina Consumption ---")]
         [SerializeField]
         protected float sprintStamina = 30f;
@@ -26,9 +26,9 @@ namespace Invector.CharacterController
 
         #region Layers
         [Header("---! Layers !---")]
-        [Tooltip("Layers that the character can walk on")]
+        [Tooltip("Layers角色能够行走")]
         public LayerMask groundLayer = 1 << 0;
-        [Tooltip("Distance to became not grounded")]
+        [Tooltip("距离地面多少距离就不是在地面上")]
         [SerializeField]
         protected float groundMinDistance = 0.2f;
         [SerializeField]
