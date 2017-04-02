@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="iv1umu6x" jpegQuality="80" compressPNG="true">
+  <resources>
+    <folder id="fywi0" name="图片" folder=""/>
+    <folder id="fywi1" name="小组件" folder=""/>
+    <component id="fywi2" name="DlgStart" folder="" file="fywi2.xml"/>
+    <image id="fywi3" name="2" folder="fywi0" qualityOption="source" file="fywi3.jpg" size="1680,1187"/>
+    <image id="fywi4" name="退出" folder="fywi0" qualityOption="source" file="fywi4.png" size="1008,549"/>
+    <image id="fywi5" name="设置" folder="fywi0" qualityOption="source" file="fywi5.png" size="1008,549"/>
+    <image id="fywi6" name="开发" folder="fywi0" qualityOption="source" file="fywi6.png" size="1008,549"/>
+    <image id="fywi7" name="多人模式" folder="fywi0" qualityOption="source" file="fywi7.png" size="1008,549"/>
+    <image id="fywi8" name="单人模式" folder="fywi0" qualityOption="source" file="fywi8.png" size="1008,549"/>
+    <image id="fywi9" name="logo" folder="fywi0" qualityOption="source" file="fywi9.png" size="1417,992"/>
+    <image id="fywia" name="12" folder="fywi0" qualityOption="source" file="fywia.jpg" size="1500,844"/>
+    <image id="fywib" name="4" folder="fywi0" qualityOption="source" file="fywib.jpg" size="1500,1096"/>
+    <image id="fywic" name="3" folder="fywi0" qualityOption="source" file="fywic.jpg" size="1920,1200"/>
+    <component id="fywif" name="SingleButton" folder="fywi1" file="fywif.xml"/>
+    <component id="fywig" name="MultiplayButton" folder="fywi1" file="fywig.xml"/>
+    <component id="fywih" name="SettingButton" folder="fywi1" file="fywih.xml"/>
+  </resources>
+  <publish/>
+</packageDescription>
