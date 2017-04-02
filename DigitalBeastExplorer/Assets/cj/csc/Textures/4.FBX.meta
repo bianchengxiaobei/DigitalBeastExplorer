@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: 98f9c48f9d17c444581ff9b4a3731eb6
+timeCreated: 1491114949
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 1
+    100002: 2
+    100004: 3
+    100006: //RootNode
+    100008: Editable Poly
+    100010: Editable Poly 1
+    100012: Editable Poly 10
+    100014: Editable Poly 11
+    100016: Editable Poly 12
+    100018: Editable Poly 13
+    100020: Editable Poly 14
+    100022: Editable Poly 15
+    100024: Editable Poly 16
+    100026: Editable Poly 17
+    100028: Editable Poly 18
+    100030: Editable Poly 19
+    100032: Editable Poly 2
+    100034: Editable Poly 20
+    100036: Editable Poly 21
+    100038: Editable Poly 3
+    100040: Editable Poly 4
+    100042: Editable Poly 5
+    100044: Editable Poly 6
+    100046: Editable Poly 7
+    100048: Editable Poly 8
+    100050: Editable Poly 9
+    100052: UB309
+    400000: 1
+    400002: 2
+    400004: 3
+    400006: //RootNode
+    400008: Editable Poly
+    400010: Editable Poly 1
+    400012: Editable Poly 10
+    400014: Editable Poly 11
+    400016: Editable Poly 12
+    400018: Editable Poly 13
+    400020: Editable Poly 14
+    400022: Editable Poly 15
+    400024: Editable Poly 16
+    400026: Editable Poly 17
+    400028: Editable Poly 18
+    400030: Editable Poly 19
+    400032: Editable Poly 2
+    400034: Editable Poly 20
+    400036: Editable Poly 21
+    400038: Editable Poly 3
+    400040: Editable Poly 4
+    400042: Editable Poly 5
+    400044: Editable Poly 6
+    400046: Editable Poly 7
+    400048: Editable Poly 8
+    400050: Editable Poly 9
+    400052: UB309
+    2300000: 1
+    2300002: 2
+    2300004: 3
+    2300006: Editable Poly
+    2300008: Editable Poly 1
+    2300010: Editable Poly 10
+    2300012: Editable Poly 11
+    2300014: Editable Poly 12
+    2300016: Editable Poly 13
+    2300018: Editable Poly 14
+    2300020: Editable Poly 15
+    2300022: Editable Poly 16
+    2300024: Editable Poly 17
+    2300026: Editable Poly 18
+    2300028: Editable Poly 19
+    2300030: Editable Poly 2
+    2300032: Editable Poly 20
+    2300034: Editable Poly 21
+    2300036: Editable Poly 3
+    2300038: Editable Poly 4
+    2300040: Editable Poly 5
+    2300042: Editable Poly 6
+    2300044: Editable Poly 7
+    2300046: Editable Poly 8
+    2300048: Editable Poly 9
+    2300050: UB309
+    3300000: 1
+    3300002: 2
+    3300004: 3
+    3300006: Editable Poly
+    3300008: Editable Poly 1
+    3300010: Editable Poly 10
+    3300012: Editable Poly 11
+    3300014: Editable Poly 12
+    3300016: Editable Poly 13
+    3300018: Editable Poly 14
+    3300020: Editable Poly 15
+    3300022: Editable Poly 16
+    3300024: Editable Poly 17
+    3300026: Editable Poly 18
+    3300028: Editable Poly 19
+    3300030: Editable Poly 2
+    3300032: Editable Poly 20
+    3300034: Editable Poly 21
+    3300036: Editable Poly 3
+    3300038: Editable Poly 4
+    3300040: Editable Poly 5
+    3300042: Editable Poly 6
+    3300044: Editable Poly 7
+    3300046: Editable Poly 8
+    3300048: Editable Poly 9
+    3300050: UB309
+    4300000: Editable Poly
+    4300002: Editable Poly
+    4300004: Editable Poly
+    4300006: Editable Poly
+    4300008: Editable Poly
+    4300010: Editable Poly
+    4300012: Editable Poly
+    4300014: Editable Poly
+    4300016: Editable Poly
+    4300018: Editable Poly
+    4300020: Editable Poly
+    4300022: Editable Poly
+    4300024: Editable Poly
+    4300026: Editable Poly
+    4300028: Editable Poly
+    4300030: Editable Poly
+    4300032: Editable Poly
+    4300034: Editable Poly
+    4300036: Editable Poly
+    4300038: Editable Poly
+    4300040: Editable Poly
+    4300042: 3
+    4300044: 2
+    4300046: 1
+    4300048: Editable Poly
+    4300050: UB309
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
