@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1024,768">
+  <displayList>
+    <image id="n0" name="n0" src="g4na8" xy="0,0"/>
+    <image id="n1" name="n1" src="g4na2" xy="280,4" size="488,238"/>
+    <component id="n6" name="n6" src="g4nae" xy="400,250" size="200,70"/>
+    <component id="n7" name="n7" src="g4naa" xy="402,351" size="200,70"/>
+    <component id="n8" name="n8" src="g4nab" xy="439,459" size="108,63"/>
+    <component id="n9" name="n9" src="g4nac" xy="399,556" size="200,70"/>
+    <component id="n10" name="n10" src="g4nad" xy="428,662" size="140,64"/>
+  </displayList>
+</component>
