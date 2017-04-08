@@ -38,7 +38,9 @@ namespace Invector.CharacterController
                        
             if (MeleeAttackConditions)
             {
+                //设置AttackId,和WeakAttack
                 MeleeWeakAttackInput();
+                 //设置AttackId,和StrongAttack
                 MeleeStrongAttackInput();
                 BlockingInput();
             }

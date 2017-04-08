@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <projectDescription name="DigitalBeastExplorer" type="Unity" id="54e23e6839b46ae046a5ad7203ab1ea8">
   <packages>
-    <package id="iv1umu6x" name="开始界面"/>
+    <package id="c7yuaa7n" name="创建角色界面"/>
+    <package id="x7hhunto" name="开始界面"/>
   </packages>
   <textSetting font="宋体" size="12"/>
   <scrollBars/>
