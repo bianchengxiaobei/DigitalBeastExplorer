@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1024,768">
+  <displayList>
+    <image id="n0" name="n0" src="jfi25" xy="0,0"/>
+    <component id="n1" name="n1" src="jfi26" xy="42,678" pivot="50,25" size="123,64"/>
+    <component id="n2" name="n2" src="jfi27" xy="392,666" pivot="50,25" size="219,77"/>
+    <component id="n3" name="n3" src="jfi28" xy="801,591" pivot="50,25" size="179,74"/>
+    <component id="n4" name="n4" src="jfi29" xy="803,682" pivot="50,25" size="176,69"/>
+    <image id="n6" name="n6" src="8dkde" xy="748,38" size="267,523"/>
+  </displayList>
+</component>
