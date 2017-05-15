@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1024,768">
+  <displayList>
+    <image id="n0" name="n0" src="neqp1" xy="0,0"/>
+    <component id="n1" name="n1" src="neqp5" xy="800,660" size="190,94"/>
+    <component id="n2" name="n2" src="neqp6" xy="38,658" size="168,88"/>
+    <image id="n4" name="n4" src="8dkd8" xy="756,42" size="258,582"/>
+  </displayList>
+</component>

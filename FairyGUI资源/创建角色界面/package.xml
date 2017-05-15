@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<packageDescription id="c7yuaa7n" jpegQuality="80" compressPNG="true">
+<packageDescription jpegQuality="80" compressPNG="true">
   <resources>
-    <component id="jfi20" name="DlgCreateRole" folder="" file="jfi20.xml"/>
-    <image id="jfi21" name="jryfcx" folder="subpb" qualityOption="source" file="jfi21.png" size="283,142"/>
-    <image id="jfi22" name="fh" folder="subpb" qualityOption="source" file="jfi22.png" size="283,142"/>
-    <image id="jfi23" name="scjs" folder="subpb" qualityOption="source" file="jfi23.png" size="283,142"/>
-    <image id="jfi24" name="cjjs" folder="subpb" qualityOption="source" file="jfi24.png" size="283,142"/>
-    <image id="jfi25" name="选择角色界面" folder="subpb" qualityOption="source" file="jfi25.jpg" size="1024,768"/>
-    <component id="jfi26" name="BackButton" folder="subpc" file="jfi26.xml"/>
-    <component id="jfi27" name="EnterGameButton" folder="subpc" file="jfi27.xml"/>
-    <component id="jfi28" name="CreateRoleButton" folder="subpc" file="jfi28.xml"/>
-    <component id="jfi29" name="DeleteRoleButton" folder="subpc" file="jfi29.xml"/>
-    <image id="jfi2a" name="未标题-2" folder="subpb" qualityOption="source" file="jfi2a.png" size="1000,1300"/>
-    <folder id="subpb" name="图片" folder=""/>
-    <folder id="subpc" name="小组件" folder=""/>
+    <component id="neqp0" name="背景" folder="" file="neqp0.xml"/>
+    <image id="neqp1" name="创建角色界面" folder="" qualityOption="source" file="neqp1.jpg" size="1024,768"/>
+    <image id="neqp3" name="qd" folder="" qualityOption="source" file="neqp3.png" size="283,142"/>
+    <image id="neqp4" name="fh" folder="" qualityOption="source" file="neqp4.png" size="283,142"/>
+    <component id="neqp5" name="确定" folder="" file="neqp5.xml"/>
+    <component id="neqp6" name="返回" folder="" file="neqp6.xml"/>
+    <image id="ejje7" name="4be07907a73dfbaa" folder="" qualityOption="source" file="ejje7.png" size="567,850"/>
+    <image id="8dkd8" name="abd7eb7765dea98" folder="" qualityOption="source" file="8dkd8.jpg" size="492,960"/>
   </resources>
-  <publish/>
+  <publish name="Create roles"/>
 </packageDescription>

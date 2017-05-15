@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<projectDescription name="DigitalBeastExplorer" type="Unity" id="54e23e6839b46ae046a5ad7203ab1ea8">
+<projectDescription name="选择角色界面" type="Unity" id="3e262f56d9bd63fda3092f60fee6225d">
   <packages>
-    <package id="c7yuaa7n" name="创建角色界面"/>
+    <package id="03djfeb1" name="创建角色界面"/>
     <package id="x7hhunto" name="开始界面"/>
+    <package id="c7yuaa7n" name="选择角色界面"/>
   </packages>
   <textSetting font="宋体" size="12"/>
   <scrollBars/>

@@ -16,6 +16,7 @@
     <component id="g4nac" name="DevepNameListButton" folder="g4na1" file="g4nac.xml"/>
     <component id="g4nad" name="QuitButton" folder="g4na1" file="g4nad.xml"/>
     <component id="g4nae" name="SingleButton" folder="g4na1" file="g4nae.xml"/>
+    <image id="n811f" name="1ae84b5d992277d4" folder="g4na1" qualityOption="source" file="n811f.png" size="500,360"/>
   </resources>
-  <publish/>
+  <publish name="start"/>
 </packageDescription>
